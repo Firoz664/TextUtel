@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Firoz664.github.io/TextUtel/static/css/main.a617e044.chunk.css",
+    "main.js": "/Firoz664.github.io/TextUtel/static/js/main.4589a9eb.chunk.js",
+    "main.js.map": "/Firoz664.github.io/TextUtel/static/js/main.4589a9eb.chunk.js.map",
+    "runtime-main.js": "/Firoz664.github.io/TextUtel/static/js/runtime-main.64e6f8e3.js",
+    "runtime-main.js.map": "/Firoz664.github.io/TextUtel/static/js/runtime-main.64e6f8e3.js.map",
+    "static/js/2.c3dee6dd.chunk.js": "/Firoz664.github.io/TextUtel/static/js/2.c3dee6dd.chunk.js",
+    "static/js/2.c3dee6dd.chunk.js.map": "/Firoz664.github.io/TextUtel/static/js/2.c3dee6dd.chunk.js.map",
+    "static/js/3.d93e8ed0.chunk.js": "/Firoz664.github.io/TextUtel/static/js/3.d93e8ed0.chunk.js",
+    "static/js/3.d93e8ed0.chunk.js.map": "/Firoz664.github.io/TextUtel/static/js/3.d93e8ed0.chunk.js.map",
+    "index.html": "/Firoz664.github.io/TextUtel/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Firoz664.github.io/TextUtel/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.c3dee6dd.chunk.js.LICENSE.txt": "/Firoz664.github.io/TextUtel/static/js/2.c3dee6dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64e6f8e3.js",
+    "static/js/2.c3dee6dd.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.4589a9eb.chunk.js"
+  ]
+}
